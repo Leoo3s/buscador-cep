@@ -51,11 +51,11 @@ function App() {
         <main className="main">
           <h2>CEP: {cep.cep}</h2>
 
-          <span>{cep.logradouro}</span>
-          <span>{cep.complemento}</span>
-          <span>{cep.bairro}</span>
-          <span>{cep.localidade} - {cep.uf}</span>
-          <span> DDD: 0{cep.ddd}</span>
+          <spam>{cep.logradouro}</spam>
+          <spam>{cep.complemento}</spam>
+          <spam>{cep.bairro}</spam>
+          <spam>{cep.localidade} - {cep.uf}</spam>
+          <spam> DDD: 0{cep.ddd}</spam>
 
         </main>
 
